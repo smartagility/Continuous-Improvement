@@ -3,7 +3,7 @@
 ## Ace the race to digital disruption with scientific method for Continuous Improvement.
 
 
-![Test Image 1]( /AdobeStock_61795780.jpg )
+![Test Image 1]( /Continuous-Improvement/AdobeStock_61795780.jpg )
 
 
 - Hypothesize your continuous Improvemet ideas with measurable business outcomes. 
