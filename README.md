@@ -3,7 +3,7 @@
 ## Ace the race to digital disruption with scientific method for Continuous Improvement.
 
 
-![Test Image 1]( "https://github.com/smartagility/Continuous-Improvement/blob/master/README.md" )
+![Image1]( /AdobeStock_61795780.jpg )
 
 
 - Hypothesize your continuous Improvemet ideas with measurable business outcomes. 
